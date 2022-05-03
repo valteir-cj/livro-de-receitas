@@ -1,4 +1,6 @@
 # Livro de receitas :cookie:
 
-Olá! Bem vindo ao livroo de receitas
+Olá! Bem vindo ao livro de receitas
+
 strogonoff de frango
+Pavê
